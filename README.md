@@ -15,7 +15,7 @@ intelligence, not just your keys.
 ## 🚧 Projects
 
 - 🗺️ [Agentic Commerce Map](https://github.com/rickkdev/agenticcommercemap) - mapping the emerging agentic commerce stack.
-- 🧬 [Geist AI](https://github.com/geistlabs/geistai) - local and decentralized AI experiments.
+- 🧬 [Geist AI](https://github.com/geistlabs/geistai) - React Native experiments for private, local AI.
 - ⚙️ [Ralph](https://github.com/rickkdev/ralph) - tools for agentic workflows.
 - 👁️ [Worldwatcher](https://github.com/rickkdev/worldwatcher) - OSINT and observation tools for watching and reasoning over world events.
 - 📡 [OpenQ](https://github.com/OpenQDev) - open source data scraper and developer tooling.
