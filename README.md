@@ -1,4 +1,4 @@
-# Rick Dudley
+# rick
 
 Based in Berlin. Working on making Ethereum home for builders at the
 [Ethereum Foundation](https://ethereum.foundation/).
