@@ -18,7 +18,7 @@ intelligence, not just your keys.
 - 🧬 [Geist AI](https://github.com/geistlabs/geistai) - React Native experiments for private, local AI.
 - ⚙️ [Ralph](https://github.com/rickkdev/ralph) - tools for agentic workflows.
 - 👁️ [Worldwatcher](https://github.com/rickkdev/worldwatcher) - OSINT and observation tools for watching and reasoning over world events.
-- 📡 [OpenQ](https://github.com/OpenQDev) - open source data scraper and developer tooling.
+- 📡 [OpenQ](https://github.com/OpenQDev) - open source data scraper and observation layer.
 - 🖱️ [Clicky](https://github.com/rickkdev/clicky) - Clicky fork ported to Windows.
 
 ## 🧩 Further
